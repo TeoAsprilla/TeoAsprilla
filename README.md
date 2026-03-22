@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-<img width="1376" height="768" alt="1000503111" src="https://github.com/user-attachments/assets/2ca63d5b-ce20-4d69-b349-c511a8b74ab3" />
+<img width="1376" height="768" alt="1000503110" src="https://github.com/user-attachments/assets/14a7d442-e11f-496a-90a0-d25b08c0ab1d" />
 
 **Analytics Engineer in training | Automating data cleaning with Python and automatic validations. Focused on Fintech and Data Quality.**
