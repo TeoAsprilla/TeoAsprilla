@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1376" height="768" alt="1000503111" src="https://github.com/user-attachments/assets/2ca63d5b-ce20-4d69-b349-c511a8b74ab3" />
 
 <!--
 **TeoAsprilla/TeoAsprilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
